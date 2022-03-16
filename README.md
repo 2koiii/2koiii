@@ -1,8 +1,8 @@
 - 👋 Hi, I’m John
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Web development (htmls, css, & javascript)
+<!-- 💞️ I’m looking to collaborate on ... -->
+- 📫 cjrmox@gmail.com
 
 <!---
 2koiii/2koiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
