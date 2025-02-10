@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Web development (javascript)
+- 🌱 I’m currently learning Introduction to Computer Science (Harvard's CS50)
 <!-- 💞️ I’m looking to collaborate on ... -->
 - 📫 cjrmox@gmail.com
 
